@@ -1,6 +1,20 @@
 # Jornada_De_Dados_Ruiz
 
-Este repositório serve para armazenar meus estudos em python.
-Aqui você vai encontrar os exercicios realizados e estudos.
-Também pode encontrar conceitos e pesquisas realizadas.
+## 🐍 Meus Estudos em Python
+
+Este repositório centraliza minha jornada de aprendizado em Python. 
+
+~~~
+Aqui você encontrará:
+
+- Exercícios Práticos: Soluções de desafios e listas de exercícios.
+
+- Notas de Estudo: Resumos teóricos e conceitos fundamentais.
+
+- Pesquisas: Documentação de tópicos avançados e novas bibliotecas.
+~~~
+
+O objetivo é documentar minha evolução técnica e servir como fonte de consulta rápida.
+
+
 
