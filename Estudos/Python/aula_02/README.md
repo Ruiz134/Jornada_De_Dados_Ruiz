@@ -543,9 +543,9 @@
 <details>
 <summary><b>🐍 Resposta</b></summary>
 
-    ```python
+```python
     try:
-
+        
         nome = input("Digite o seu nome: ").strip()
         if not nome:
             raise ValueError("Valor Vazio. Gentileza Preencher com valores inteiros")
@@ -574,7 +574,7 @@
         
     except ValueError as e:
         print(f"[ERRO]: {e}")
-    ```
+```
 
 </details>
 </details>
